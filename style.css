@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+
+    background-color: #1c87c9 ;
+
+}
+
+table{
+    width: 600px;
+    background-color: lightblue;
+    border-collapse: collapse;
+}
+
+
+table, th, td {
+    border: 3px solid black;
+}
+
+ol li {
+    text-align: center;
+    list-style-position: inside;
+}
