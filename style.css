@@ -6,17 +6,36 @@
 
 
 body{
-
     background-color: #1c87c9 ;
-
 }
 
+h1, caption {
+    color: white;
+}
+caption{
+    position: absolute;
+    text-align: center;
+    margin: 0 auto;
+    width: 600px;
+}
 table{
     width: 600px;
     background-color: lightblue;
     border-collapse: collapse;
+    margin: 0 auto;
 }
 
+img {
+    width: 200px;
+    height: 150px;
+   
+}
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
 
 table, th, td {
     border: 3px solid black;
