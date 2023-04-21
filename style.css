@@ -8,10 +8,14 @@
 body{
     background-color: #1c87c9 ;
 }
-
+.center {
+    margin: 25vh 0;
+}
 h1, caption {
     color: white;
+    text-align: center;
 }
+
 caption{
     position: absolute;
     text-align: center;
